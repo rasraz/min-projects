@@ -1,0 +1,11 @@
+در جزیره آدمخوار ها شما برای نات جانتان باید به زبان آن ها صحبت کنید.
+زبان آدمخوار ها به این صورت است که حروف اول هر کلمه به آخر آن رفته و سپس به کل کلمه عبارت "ay" اضافه میشود.
+مثال :
+hello --> elloh + ay --> ellohay
+برای صحبت با آدم خوار ها یک نرم افزار مترجم بنویسید.
+********************************************************************************************************************************
+On the island of cannibals, you have to speak their language to kill your soul.
+The language of cannibals is that the first letters of each word go to the end and then the word "ay" is added to the whole word.
+Example :
+hello --> elloh + ay --> ellohay
+Write a translator software to talk to cannibals.
