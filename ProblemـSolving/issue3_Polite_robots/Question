@@ -1,0 +1,11 @@
+در زبان ربات ها (فرضی) جملات از حروف انگلیسی پشت سر هم تشکیل شده است. در این زبان اگر تعداد تکرار پشت سر هم هر کدام از حروف زوج باشد
+جمله مودبانه و در غیر این صورت (فرد بودن) غیر مودبانه است. 
+مثال:
+aabbcccc --> مودبانه				aabcccc --> غیرودبانه
+برنامه ای بنویسید که حروف مودبانه را از غیر مودبانه تشخیص بدهد؟
+********************************************************************************************************************************
+In the language of robots (hypothetical) sentences are composed of consecutive English letters. In this language, if the number of consecutive repetitions of each letter is even
+The sentence is polite and otherwise (being an individual) is polite.
+Example:
+aabbcccc --> Polite 			aabcccc --> Non-polite
+Write a program that distinguishes polite letters from non-polite ones?
